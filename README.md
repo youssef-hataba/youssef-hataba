@@ -4,17 +4,25 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+I'm+Youssef+Hataba++;A+Passionate+Full-Stack+Developer" />
 </h3>
 
-
 ---
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iZHN1ejBoOWxwdzJ5OHdya2xicWo1ZGk0czQycXhmank2OXg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+ 
 - 🌱 I’m currently diving deeper into **Node.js** to enhance my full-stack development skills.
 
+- 🤝 I love working in teams and collaborating to bring ideas to life!
 
 - 👨‍💻 Explore all my work and contributions on [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories).
 
 
 - 💬 Ask me about *anything*
+
+
  
 - ⚡ Fun fact: I enjoy watching movies—it’s my favorite way to unwind after coding sessions!
+
+
+
 ---
 <h3 align="center">⚡ Coding Stats ⚡</h3>
 
