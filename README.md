@@ -65,70 +65,78 @@
 </p>
 
 ---
-
 <h2 align="left">TECH SKILLS</h2>
-<table align="center">
+<table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
-      <br>Javascript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="45" height="45" />
-      <br>Csharp
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
-      <br>Cpp
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" />
-      <br>Github
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML" />
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
       <br>HTML
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="Mysql" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
-      <br>Linux
-    </td>
-     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45"  alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="Sql Server" />
-      <br>SQL Server
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET" />
-      <br>.NET
-    </td>
-    <td align="center" width="90">
+    <td align="center" style="width: 12.5%; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS" />
       <br>CSS
     </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
+      <br>Javascript
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="45" height="45" />
+      <br>Typescript
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+      <br>React.js
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="45" />
+      <br>Redux
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React Router" />
+      <br>React Router
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" />
+      <br>GitHub
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" style="width: 12.5%; padding: 10px;">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="C++" />
+      <br>Python
+    </td>
   </tr>
 </table>
+
 
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://git.io/typing-svg" target="_blank">
