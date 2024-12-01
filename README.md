@@ -1,14 +1,14 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ElSherbiny73&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="El_Sherbiny" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=youssef-hataba&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Youssef Hataba" /> </p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+I'm+Youssef+Hataba++" />
 </h3>
 
 ---
-- 🌱 I’m currently learning *APS.NET Core*
+- 🌱 I’m currently learning *Node.js*
 
 
-- 👨‍💻 All my projects are available at <a href="https://github.com/Elsherbiny73?tab=repositories"><strong>My Repo</strong></a>
+- 👨‍💻 All my projects are available at <a href="https://github.com/youssef-hataba?tab=repositories"><strong>My Repo</strong></a>
 
 
 - 💬 Ask me about *anything*
@@ -24,10 +24,10 @@
 <table>
   <tr>
     <td>
-      <img width="410" src="https://streak-stats.demolab.com/?user=Elsherbiny73&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+      <img width="410" src="https://streak-stats.demolab.com/?user=youssef-hataba&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     </td>
     <td>
-      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Elsherbiny73&count_private=true&theme=react&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats"/>
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=youssef-hataba&count_private=true&theme=react&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats"/>
     </td>
   </tr>
 </table>
@@ -36,12 +36,7 @@
 <table>
   <tr>
     <td>
-      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Elsherbiny73&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
-    </td>
-    <td>
-      <a href="https://codeforces.com/profile/SHER_Z3EM">
-        <img width="410" src="https://codeforces-readme-stats.vercel.app/api/card?username=SHER_Z3EM&theme=react" alt="Codeforces Stats"/>
-      </a>
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
     </td>
   </tr>
 </table>
@@ -57,11 +52,10 @@
 
 <h3 align="left">You can connect with me from</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/youssef-el-sherbiny-b8403825a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef el sherbiny" height="30" width="40" /></a>
-<a href="https://www.facebook.com/youssef.elsherbiny.3591/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef el sherbiny" height="30" width="40" /></a>
-<a href="https://www.instagram.com/el__sherbiny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el----sherbiny" height="30" width="40" /></a>
-<a href="https://discord.gg/1056228615316054126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2309" height="30" width="40" /></a>
-<a href="mailto:youssefelsherbiny73@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" width="30" height="40">
+<a href="https://www.linkedin.com/in/youssef-hataba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef hataba" height="30" width="40" /></a>
+<a href="https://www.facebook.com/youssef.hataba.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Youssef Hataba" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_youssef__hataba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youssef hataba" height="30" width="40" /></a>
+<a href="mailto:youssefhataba1@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" width="30" height="40">
   </a>
 </p>
 
