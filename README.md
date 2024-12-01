@@ -22,18 +22,18 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=youssef-hataba&count_private=true&theme=react&border_radius=10" alt="Streak Stats" width="300" />
+        <img src="https://streak-stats.demolab.com/?user=youssef-hataba&count_private=true&theme=react&border_radius=10" alt="Streak Stats" width="450" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=youssef-hataba&count_private=true&theme=react&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="300" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=youssef-hataba&count_private=true&theme=react&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="300" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="450" />
       </td>
       <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youssef-hataba&theme=react&layout=compact" alt="Weekly Coding Activity Graph" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youssef-hataba&theme=react&layout=compact" alt="Weekly Coding Activity Graph" width="450" />
   </td>
     </tr>
   </table>
