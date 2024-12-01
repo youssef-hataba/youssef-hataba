@@ -1,5 +1,5 @@
 name: Generate snake animation
-
+#<img src="https://raw.githubusercontent.com/youssef-hataba/youssef-hataba/output/snake.svg" alt="Snake animation" />
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
