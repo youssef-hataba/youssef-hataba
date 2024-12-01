@@ -5,7 +5,7 @@
 </h3>
 
 ---
-<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iZHN1ejBoOWxwdzJ5OHdya2xicWo1ZGk0czQycXhmank2OXg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iZHN1ejBoOWxwdzJ5OHdya2xicWo1ZGk0czQycXhmank2OXg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
  
 - 🌱 I’m currently diving deeper into **Node.js** to enhance my full-stack development skills.
