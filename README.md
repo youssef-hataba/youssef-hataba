@@ -41,7 +41,7 @@
         <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="450" />
       </td>
       <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youssef-hataba&theme=react&layout=compact" alt="Weekly Coding Activity Graph" width="450" />
+    <img src="https://wakatime.com/share/@youssefHataba/c28e3aa4-e04c-4891-b9d8-5546b4415771.svg" alt="Weekly Coding Activity Graph" width="450" height="280" />
   </td>
     </tr>
   </table>
@@ -147,7 +147,5 @@
 
 
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&size=25&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thank+you+for+visiting!+%F0%9F%91%8D" alt="Typing SVG" />
-  </a>
 </div>
