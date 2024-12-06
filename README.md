@@ -8,19 +8,15 @@
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iZHN1ejBoOWxwdzJ5OHdya2xicWo1ZGk0czQycXhmank2OXg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
  
-- 🌱 I’m currently diving deeper into **Node.js** to enhance my full-stack development skills.
+🌟 **About Me**  
+- 🌱 Currently exploring **Node.js** to sharpen my full-stack development skills.  
+- 🤝 Teamwork and collaboration fuel my passion for bringing innovative ideas to life.  
+- 👨‍💻 Check out [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories) for all my projects.  
+- 💬 Feel free to ask me about coding, collaboration, or anything else!  
 
-- 🤝 I love working in teams and collaborating to bring ideas to life!
-
-- 👨‍💻 Explore all my work and contributions on [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories).
-
-
-- 💬 Ask me about *anything*
-
-
- 
-- ⚡ Fun fact: I enjoy watching movies—it’s my favorite way to unwind after coding sessions!
-
+💡 **Beyond Coding**  
+- 💪 I’m a fitness enthusiast and love spending time at the gym—it keeps me disciplined and motivated!  
+- 🎥 A big movie fan! Watching films is my go-to way to relax after coding.  
 
 
 ---
