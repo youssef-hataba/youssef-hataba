@@ -9,7 +9,6 @@
 
  
 🌟 **About Me**  
-- 🌱 Currently exploring **Node.js** to sharpen my full-stack development skills.  
 - 🤝 Teamwork and collaboration fuel my passion for bringing innovative ideas to life.  
 - 👨‍💻 Check out [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories) for all my projects.  
 - 💬 Feel free to ask me about coding, collaboration, or anything else!  
