@@ -36,7 +36,7 @@
         <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="450" />
       </td>
       <td align="center">
-    <img src="https://wakatime.com/share/@youssefHataba/c28e3aa4-e04c-4891-b9d8-5546b4415771.svg" alt="Weekly Coding Activity Graph" width="450" height="280" />
+    <img src="https://wakatime.com/share/@youssefHataba/be2dcb7b-9e1c-47d0-858f-3fb1ca71d787.svg" alt="Weekly Coding Activity Graph" width="450" height="280" />
   </td>
     </tr>
   </table>
