@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=youssef-hataba&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Youssef Hataba" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=youssef-hataba&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Youssef Hataba" /> <img src="https://wakatime.com/badge/github/youssef-hataba/Natours.svg" alt="Weekly Coding Activity Graph" /></p>
 
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+I'm+Youssef+Hataba++;A+Passionate+Full-Stack+Developer" />
@@ -36,7 +36,7 @@
         <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="450" />
       </td>
       <td align="center">
-    <img src="https://wakatime.com/share/@youssefHataba/be2dcb7b-9e1c-47d0-858f-3fb1ca71d787.svg" alt="Weekly Coding Activity Graph" width="450" height="280" />
+    
   </td>
     </tr>
   </table>
