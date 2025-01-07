@@ -10,8 +10,9 @@
  
 🌟 **About Me**  
 - 🤝 Teamwork and collaboration fuel my passion for bringing innovative ideas to life.  
+- 🔭 I’m currently working on **zentry website**.  
 - 👨‍💻 Check out [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories) for all my projects.  
-- 💬 Feel free to ask me about coding, collaboration, or anything else!  
+- 💬 Feel free to ask me about coding, collaboration, or anything else!
 
 💡 **Beyond Coding**  
 - 💪 I’m a fitness enthusiast and love spending time at the gym—it keeps me disciplined and motivated!  
