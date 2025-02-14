@@ -6,7 +6,7 @@
 
 ---
 <div align="center">
- <img align="center" alt="Coding"      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5Ym41eDMyMXM3a29jcG1wa21rODN5aTk1a210cDEwNXdwajBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif">
+ <img height="300" alt="Coding"      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5Ym41eDMyMXM3a29jcG1wa21rODN5aTk1a210cDEwNXdwajBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif">
 </div>
 
 
@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="450"  />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&count_private=true&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="450"  />
       </td>
       <td align="center">
        <img src="https://wakatime.com/share/@youssefHataba/444cb1dc-2650-42c3-b334-c8b680c447f2.png" alt="wakatime" width="450" height="270"/>
