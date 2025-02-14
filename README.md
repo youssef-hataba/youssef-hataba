@@ -5,9 +5,13 @@
 </h3>
 
 ---
-<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iZHN1ejBoOWxwdzJ5OHdya2xicWo1ZGk0czQycXhmank2OXg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<div align="center">
+ <img align="center" alt="Coding"      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5Ym41eDMyMXM3a29jcG1wa21rODN5aTk1a210cDEwNXdwajBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif">
+</div>
 
- 
+
+---
+
 🌟 **About Me**  
 - 🤝 Teamwork and collaboration fuel my passion for bringing innovative ideas to life.  
 - 🔭 I’m currently working on **Travel Story Website**.  
