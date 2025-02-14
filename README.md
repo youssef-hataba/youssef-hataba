@@ -11,12 +11,14 @@
 🌟 **About Me**  
 - 🤝 Teamwork and collaboration fuel my passion for bringing innovative ideas to life.  
 - 🔭 I’m currently working on **Travel Story Website**.  
-- 👨‍💻 Check out [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories) for all my projects.  
-- 💬 Feel free to ask me about coding, collaboration, or anything else!
+- 👨‍💻 Check out [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories) for all my projects.
+- 📚 Constantly learning and improving! Currently diving into TypeScript and reading Node.js Design Patterns (Third Edition) to enhance my backend development skills.
+- 💬 Love discussing web development, best coding practices, and software architecture. Feel free to reach out!
 
 💡 **Beyond Coding**  
 - 💪 I’m a fitness enthusiast and love spending time at the gym—it keeps me disciplined and motivated!  
-- 🎥 A big movie fan! Watching films is my go-to way to relax after coding.  
+- 🎥 A big movie fan! Watching films is my go-to way to relax after coding.
+- 🚀 Always looking for new challenges and opportunities to grow as a developer. 
 
 
 ---
