@@ -32,15 +32,15 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=youssef-hataba&count_private=true&theme=react&border_radius=10" alt="Streak Stats" width="450" />
+        <img src="https://streak-stats.demolab.com/?user=youssef-hataba&count_private=true&theme=tokyonight&border_radius=10" width="450" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=youssef-hataba&count_private=true&theme=react&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=youssef-hataba&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&count_private=true&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="450"  />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&count_private=true&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="450"  />
       </td>
       <td align="center">
        <img src="https://wakatime.com/share/@youssefHataba/444cb1dc-2650-42c3-b334-c8b680c447f2.png" alt="wakatime" width="450" height="270"/>
