@@ -123,8 +123,8 @@
       <br>Express
     </td>
    <td align="center" style="width: 12.5%; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="C++" />
-      <br>Postman
+      <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <p>Docker</p></div>
     </td>
     <td align="center" style="width: 12.5%; padding: 10px;">
       <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241207T154628Z&X-Amz-Expires=300&X-Amz-Signature=827652879a9d675cc82c0c19e59fcd349f6c30f3c95b5f2c1f34805c35e99ad9&X-Amz-SignedHeaders=host" width="45" height="45" alt="MongoDB" />
