@@ -18,7 +18,6 @@
 - 👨‍💻 Check out [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories) for all my projects.
 - 📚 Constantly learning and improving! I'm currently:  
   - Reading **Node.js Design Patterns (Third Edition)** to deepen my understanding of scalable backend design.  
-  - Learning **Docker** to enhance my DevOps and containerization skills. 
 - 💬 Love discussing web development, best coding practices, and software architecture. Feel free to reach out!
 
 💡 **Beyond Coding**  
