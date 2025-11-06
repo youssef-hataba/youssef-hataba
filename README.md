@@ -14,7 +14,7 @@
 
 🌟 **About Me**  
 - 🤝 Teamwork and collaboration fuel my passion for bringing innovative ideas to life.  
-- 🔭 I’m currently working on [**educational-platform-backend**](https://github.com/youssef-hataba/educational-platform-backend).  
+- 🔭 I’m currently working on **several freelance projects**.  
 - 👨‍💻 Check out [**My GitHub Repositories**](https://github.com/youssef-hataba?tab=repositories) for all my projects.
 - 📚 Constantly learning and improving! I'm currently:  
   - Reading **Node.js Design Patterns (Third Edition)** to deepen my understanding of scalable backend design.  
