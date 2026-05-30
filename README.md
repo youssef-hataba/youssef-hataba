@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&count_private=true&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="450"  />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=youssef-hataba&count_private=true&langs_count=12&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="450"  />
       </td>
       <td align="center">
        <img src="https://wakatime.com/share/@youssefHataba/444cb1dc-2650-42c3-b334-c8b680c447f2.png" alt="wakatime" width="450" height="270"/>
