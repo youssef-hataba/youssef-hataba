@@ -26,23 +26,16 @@
 
 * 💼 Software Engineer @ **Gabster**
 
-* 🧠 Full-Stack Developer ( MERN )
+* 🧠 Full-Stack Developer (MERN)
 
-* 🚀 Working on multiple **freelance projects**
+* 🚀 Working on multiple freelance projects
 
-* 🎓 Graduate of **Computer Science**
+* 🎓 Computer Science Graduate
 
-* ⚡ Currently exploring:
+* ⚡ Exploring: AI Automation, Agentic AI, n8n
 
-  * AI Automation
-  * Agentic AI
-  * n8n
-
-* 💬 Interests:
-
-  * Scalable backend systems
-  * Performance optimization
-  * Clean architecture
+* 💬 Focus:
+  Scalable systems • Performance • Clean architecture
 
 ---
 
@@ -81,6 +74,9 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
+  <a href="https://youssef-hataba.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/youssef-hataba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -95,9 +91,10 @@
   </a>
 </p>
 
+
 ---
 
-<h2 align="left">TECH SKILLS</h2>
+<h3 align="left">TECH SKILLS</h2>
 <table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
     <td align="center" style="width: 12.5%; padding: 10px;">
